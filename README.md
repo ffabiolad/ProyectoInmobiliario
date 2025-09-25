@@ -1,3 +1,18 @@
+# OVERVIEW
+
+<img width="1470" height="796" alt="Screenshot 2025-09-25 at 4 39 25 p m" src="https://github.com/user-attachments/assets/61d81de6-5364-411f-894a-7816c938fcfb" />
+<img width="1470" height="795" alt="Screenshot 2025-09-25 at 4 39 34 p m" src="https://github.com/user-attachments/assets/fbf112eb-62e0-4fe2-ae30-7fcea9504522" />
+<img width="1470" height="792" alt="Screenshot 2025-09-25 at 4 39 42 p m" src="https://github.com/user-attachments/assets/5bc0fe5f-a0ee-4c52-b4f7-3a56a7a43e29" />
+
+<img width="1470" height="795" alt="Screenshot 2025-09-25 at 4 40 16 p m" src="https://github.com/user-attachments/assets/6d607fd8-fcce-447f-a26c-aa0554744d20" />
+<img width="1470" height="795" alt="Screenshot 2025-09-25 at 4 40 16 p m" src="https://github.com/user-attachments/assets/79f9868d-25de-41a2-a4eb-09c6aeb44673" />
+<img width="1470" height="793" alt="Screenshot 2025-09-25 at 4 40 41 p m" src="https://github.com/user-attachments/assets/b1f53c67-e9d0-43f0-a975-ceba98b57f5e" />
+<img width="1470" height="797" alt="Screenshot 2025-09-25 at 4 40 52 p m" src="https://github.com/user-attachments/assets/7fe5bafc-f7d1-473c-b1eb-66f697ea9185" />
+<img width="1469" height="796" alt="Screenshot 2025-09-25 at 4 41 01 p m" src="https://github.com/user-attachments/assets/e8927e82-9b57-43ae-a4f5-218598439a04" />
+<img width="1469" height="795" alt="Screenshot 2025-09-25 at 4 41 11 p m" src="https://github.com/user-attachments/assets/4c8878a7-534a-49bd-9385-c73a1bddb655" />
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
