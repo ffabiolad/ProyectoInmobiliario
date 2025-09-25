@@ -113,8 +113,8 @@ export default function Comprar() {
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
           {propiedadesEjemplo.map((prop) =>
             prop.cta ? (
-              <div key="cta" className="bg-hauzgo-1000 text-black p-6 rounded-2xl flex flex-col justify-center items-start shadow-md">
-                <img src={Logo} alt="HauzGo Logo" className="h-10 mb-4" />
+              <div key="cta" className="bg-hauzgo-1000 text-white p-6 rounded-2xl flex flex-col justify-center items-start shadow-md">
+                <img src={Logo} alt="HauzGo Logo" className="h-14 mb-4" />
                 <h3 className="text-lg font-semibold mb-2">¿No encuentras la casa de tus sueños?</h3>
                 <p className="text-sm">Prueba consultando con nuestros agentes inmobiliarios para tener una respuesta más detallada.</p>
               </div>

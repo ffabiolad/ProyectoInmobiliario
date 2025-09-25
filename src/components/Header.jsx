@@ -2,7 +2,7 @@ import "../index.css";
 import Logo from '../assets/logoHG.png';
 import { Link } from "react-router-dom"; 
 
-const Header = () => {
+const Header = ({ onLoginClick }) => {
   return (
     <div className="font-sans">
       {/* Navbar */}
@@ -32,9 +32,13 @@ const Header = () => {
         </div>
 
         <div className="flex items-center gap-3 text-base">
-          <Link to="/login" className="text-hauzgo-500 hover:text-hauzgo-600 transition">
+          {/* Cambiamos el Link por un botón que activa el popup */}
+          <button 
+            onClick={onLoginClick}
+            className="text-hauzgo-500 hover:text-hauzgo-600 transition"
+          >
             Entrar
-          </Link>
+          </button>
           <Link to="/registro" className="text-hauzgo-500 hover:text-hauzgo-600 transition">
             Registrarse
           </Link>
